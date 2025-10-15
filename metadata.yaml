@@ -1,5 +1,5 @@
 homepage: "https://www.prodiax.com"
 documentation: "https://github.com/prodiax/prodiax-gtm-template/blob/main/README.md"
 versions:
-  - sha:
+  - sha: b29cb83d715c198629953df4586475c3fed273bc
     changeNotes: Initial release of Prodiax GTM template
