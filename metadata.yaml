@@ -1,0 +1,6 @@
+homepage: "https://prodiax.com"
+documentation: "https://github.com/prodiax/prodiax-gtm-template#readme"
+versions:
+  # Latest release
+  - sha: f2f43a0e0425982d42a4257234e6ed58efa0a3dd
+    changeNotes: First release.
