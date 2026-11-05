@@ -13,7 +13,7 @@ ___INFO___
   "id": "cvt_temp_public_id",
   "version": 1,
   "securityGroups": [],
-  "displayName": "Prodiax A/B Testing",
+  "displayName": "Prodiax",
   "categories": [
     "EXPERIMENTATION",
     "ANALYTICS",
